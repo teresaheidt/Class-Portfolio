@@ -1,0 +1,46 @@
+.container {
+    background-color: lightgrey
+}
+
+.jumbotron {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.nav-link {
+    color: darkgray;
+    font-size: larger;
+    font-weight: normal;
+    margin: 10px;
+    font-family: monospace;
+}
+
+.card {
+    padding: 50px;
+}
+
+.card-title {
+    color: darkcyan;
+    text-align: left;
+    margin-top: 50px;
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.page-footer {
+    background-color: grey;
+    height: 120px;
+    margin: 100px;
+    color: lightgray;
+}
+
+
+
+
+
+
+

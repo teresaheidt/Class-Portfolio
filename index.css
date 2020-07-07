@@ -8,6 +8,11 @@ body {
     font-size: larger;   
 }
 
+.box-set {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .container {
     width: 800px;
     margin: auto;
