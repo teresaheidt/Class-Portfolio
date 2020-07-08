@@ -4,6 +4,7 @@
 
 .jumbotron {
     text-align: center;
+    margin-bottom: 0px;
     font-size: 40px;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -18,12 +19,7 @@
     font-family: monospace;
 }
 
-.card {
-    padding: 50px;
-}
-
 .card-title {
-    color: darkcyan;
     text-align: left;
     margin-top: 50px;
     font-size: 36px;
@@ -31,12 +27,29 @@
     font-weight: bolder;
 }
 
-.page-footer {
+#sticky-footer {
     background-color: grey;
-    height: 120px;
-    margin: 100px;
+    background-origin: padding-box;
     color: lightgray;
 }
+
+.porfolioImg{
+    width: 300px;
+    height: 300px;
+}
+#hrFooter{
+    border-top: 2px solid #17a2b8;
+}
+
+.pb-5 .py-5 {
+    padding-bottom: 1rem;
+
+}
+
+.pt-5 .py-5 {
+    padding-top: 1rem;
+}
+
 
 
 
