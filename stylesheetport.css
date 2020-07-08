@@ -4,6 +4,8 @@
 
 .jumbotron {
     text-align: center;
+    height: 160px;
+    line-height: normal;
     margin-bottom: 0px;
     font-size: 40px;
     color: white;
@@ -31,6 +33,7 @@
     background-color: grey;
     background-origin: padding-box;
     color: lightgray;
+    height: 60px;
 }
 
 .porfolioImg{
@@ -38,7 +41,8 @@
     height: 300px;
 }
 #hrFooter{
-    border-top: 2px solid #17a2b8;
+    border-top: 6px solid #17a2b8;
+    margin-bottom: 0px;
 }
 
 .pb-5 .py-5 {
@@ -48,6 +52,10 @@
 
 .pt-5 .py-5 {
     padding-top: 1rem;
+}
+
+.footer-copyright {
+ padding-top: 20px;
 }
 
 
