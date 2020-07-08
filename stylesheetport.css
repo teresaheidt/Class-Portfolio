@@ -21,6 +21,11 @@
     font-family: monospace;
 }
 
+.card {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 .card-title {
     text-align: left;
     margin-top: 50px;
@@ -36,7 +41,7 @@
     height: 60px;
 }
 
-.porfolioImg{
+.portfolioImg{
     width: 300px;
     height: 300px;
 }
