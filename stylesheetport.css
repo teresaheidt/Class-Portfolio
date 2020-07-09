@@ -31,10 +31,14 @@
     padding-left: 70px;
     padding-right: 70px;
     margin-top: 15px;
-    margin-bottom: 50px;
+    margin-bottom: 250px;
     margin-left: 15px;
     margin-right: 15px;
 }
+
+.card-body {
+    padding-left: 0px;
+  }
 
 .card-title {
     text-align: left;
@@ -48,7 +52,7 @@
     background-color: grey;
     background-origin: padding-box;
     color: lightgray;
-    height: 80px;
+    height: 120px;
 }
 
 #hrFooter{
@@ -66,7 +70,7 @@
 }
 
 .footer-copyright {
- padding-top: 30px;
+ padding-top: 50px;
 }
 
 
