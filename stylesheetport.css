@@ -1,4 +1,9 @@
 .container {
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 1000px;
     background-color: lightgrey
 }
 
@@ -22,8 +27,12 @@
 }
 
 .card {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .card-title {
@@ -38,13 +47,9 @@
     background-color: grey;
     background-origin: padding-box;
     color: lightgray;
-    height: 60px;
+    height: 80px;
 }
 
-.portfolioImg{
-    width: 300px;
-    height: 300px;
-}
 #hrFooter{
     border-top: 6px solid #17a2b8;
     margin-bottom: 0px;
@@ -60,7 +65,7 @@
 }
 
 .footer-copyright {
- padding-top: 20px;
+ padding-top: 30px;
 }
 
 
