@@ -34,6 +34,11 @@
     margin-bottom: 250px;
     margin-left: 15px;
     margin-right: 15px;
+}  
+
+.portfolioImg {
+    width: 750px;
+    height: 500px;
 }
 
 .card-body {
