@@ -38,6 +38,7 @@
 
 .card-body {
     padding-left: 0px;
+    padding: 0%;
   }
 
 .card-title {
@@ -73,7 +74,10 @@
  padding-top: 50px;
 }
 
-
+.pt-btn{
+    width:100%;
+   
+    }
 
 
 

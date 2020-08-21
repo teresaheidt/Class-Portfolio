@@ -14,6 +14,7 @@ The user will arrive on the main screen where they will see my 'About me' page. 
 ## Imgs:
 
 ## Link:
+[Portfolio](https://teresaheidt.github.io/Portfolio/)
 
 
 
