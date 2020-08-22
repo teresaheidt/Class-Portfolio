@@ -13,9 +13,6 @@ The user will arrive on the main screen where they will see my 'About me' page. 
 * When the user clicks on the 'Contact'link they will be taken to the contact page where they can fill out the following; name, email and message.
 ## Imgs:
 
-## Link:
-[Portfolio](https://teresaheidt.github.io/Portfolio/)
-
 
 
 
